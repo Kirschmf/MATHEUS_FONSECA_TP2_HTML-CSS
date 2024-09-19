@@ -1,0 +1,28 @@
+#paragrafo1 {
+    font-size: 18px;
+    color: #4caf50;
+    text-align: justify;
+    font-family: "Reddit Sans Condensed", sans-serif;
+  }
+  
+  .paragrafo2 {
+    background-color: #f0f0f0;
+    padding: 10px;
+    border-left: 5px solid #ff5722;
+    font-family: "Bebas Neue", sans-serif;
+  }
+  
+  p:nth-of-type(3) {
+    font-weight: bold;
+    font-size: 16px;
+    font-family: "Protest Guerrilla", sans-serif;
+  }
+  
+  p[data-paragrafo="especial"] {
+    color: #9c27b0;
+    background-color: #e1bee7;
+    padding: 15px;
+    border-radius: 5px;
+    font-family: "Playpen Sans", cursive;
+  }
+  

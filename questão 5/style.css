@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+#lista-musica {
+    list-style-type: decimal;
+    font-size: 18px;
+    color: #ee0fcd;
+}
+
+#lista-gastronomia {
+    list-style-type: square;
+    font-size: 18px;
+    color: #FF5722;
+}
+
+#lista-gastronomia li {
+    margin-bottom: 10px;
+}
+
+#lista-canais dt {
+    font-weight: bold;
+    color: #2196F3;
+    margin-top: 15px;
+}
+
+#lista-canais dd {
+    margin-left: 20px;
+    color: #555;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

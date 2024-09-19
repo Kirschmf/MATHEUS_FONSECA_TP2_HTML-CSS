@@ -1,0 +1,22 @@
+header {
+    background-color: burlywood;
+  }
+  
+  nav {
+    background-color: blueviolet;
+    text-decoration: none;
+  }
+  
+  main {
+    background-color: aquamarine;
+  }
+  
+  section {
+    background-color: cornflowerblue;
+  }
+  
+  footer {
+    background-color: darkred;
+    color: darkkhaki;
+  }
+  

@@ -1,0 +1,24 @@
+#paragrafo1 {
+    font-size: 18px;
+    color: #4caf50;
+    text-align: justify;
+  }
+  
+  .paragrafo2 {
+    background-color: #f0f0f0;
+    padding: 10px;
+    border-left: 5px solid #ff5722;
+  }
+  
+  p:nth-of-type(3) {
+    font-weight: bold;
+    font-size: 16px;
+  }
+  
+  p[data-paragrafo="especial"] {
+    color: #9c27b0;
+    background-color: #e1bee7;
+    padding: 15px;
+    border-radius: 5px;
+  }
+  

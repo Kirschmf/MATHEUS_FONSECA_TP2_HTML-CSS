@@ -1,0 +1,29 @@
+/* Seletor Universal */
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+/* Seletor Descendente */
+#elemento-pai p {
+	font-weight: bold;
+}
+
+/* Seletor de Tipo */
+p {
+	color: green;
+}
+
+/* Seletor de ID */
+#seletor-id {
+	font-size: 24px;
+}
+
+/* Seletor de Classe */
+.seletor-classe {
+	border: 1px solid blue;
+}
+
+/* Seletor de Pseudo-classe */
+.seletor-pseudo-classe:hover {
+	background-color: yellow;
+}
